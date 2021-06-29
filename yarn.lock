@@ -910,9 +910,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"babel-plugin-styled-components@npm:1.12.1":
-  version: 1.12.1
-  resolution: "babel-plugin-styled-components@npm:1.12.1"
+"babel-plugin-styled-components@npm:1.13.1":
+  version: 1.13.1
+  resolution: "babel-plugin-styled-components@npm:1.13.1"
   dependencies:
     "@babel/helper-annotate-as-pure": ^7.0.0
     "@babel/helper-module-imports": ^7.0.0
@@ -920,7 +920,7 @@ __metadata:
     lodash: ^4.17.11
   peerDependencies:
     styled-components: ">= 2"
-  checksum: 532e5d727f4b5e2bb1eb43eb8776a247b3a130d7595bf17d08eb29af6e77772dd64d1fb60d2d87c606c02a8adb6a961b4752bbed72fb3277853d054a537e8250
+  checksum: 8b095ebbabfec60d85263811ddf868645f7ddbced14bf67bd390ab4c59e3d0607bb91ddf34ba33494bf6ff884382a5a7056a42f855887069ba0b07743b8dd9ae
   languageName: node
   linkType: hard
 
@@ -3668,7 +3668,7 @@ fsevents@~2.3.1:
     "@types/styled-components": 5.1.10
     "@typescript-eslint/eslint-plugin": 4.28.1
     "@typescript-eslint/parser": 4.28.1
-    babel-plugin-styled-components: 1.12.1
+    babel-plugin-styled-components: 1.13.1
     eslint: 7.29.0
     eslint-config-airbnb-typescript: 12.3.1
     eslint-config-prettier: 8.3.0
